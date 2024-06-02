@@ -1,0 +1,8 @@
+{
+	"sound_event": { 
+		"sound_id": "test:custom.redacted"
+	},
+	"description": "Redacted",
+	"length_in_seconds": 72.0,
+	"comparator_output": 6
+}
